@@ -1,4 +1,9 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-02-10 16:01:33.402000 -06:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-02-10 16:01:33.423000 -06:00
 files_to_retain: 0
